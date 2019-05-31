@@ -10,7 +10,7 @@ description: |
 
 base: core18
 grade: stable
-confinement: strict
+confinement: classic
 
 parts:
   nv-codec-headers:
